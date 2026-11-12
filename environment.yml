@@ -1,3 +1,4 @@
+#the shopping list of packages, automatically let's me teammates know to also get these packages
 name: tomato_pot
 channels:
  - conda-forge
@@ -7,4 +8,4 @@ dependencies:
  - pandas=2.2
  - matplotlib=3.10
  - ipykernel
- 
+ - seaborn=0.13 
