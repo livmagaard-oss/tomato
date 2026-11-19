@@ -7,3 +7,5 @@ __pycache__/
 .ipynb_checkpoints/
 # VS Code's settings for this folder (each person has their own)
 .vscode/
+
+**/.DS_Store
